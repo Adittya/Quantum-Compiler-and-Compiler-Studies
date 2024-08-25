@@ -1,0 +1,1 @@
+console.log('hello'.slice(1, -1));
